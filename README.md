@@ -39,8 +39,19 @@
 </p>
 <p>
 <a href="firebase.google.com" title="Firebase"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
-<a href="canva.com" title="Canva"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Firebase"></a>
+<a href="canva.com" title="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
 <a href="https://developer.android.com/android-studio/" title="Android Studip"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
 <a href="https://jupyter.org" title="Jupyter Notebook"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white" alt="Jupyter Notebook"></a>
 <a href="https://tensorflow.org" title="Tensorflow"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"></a>
 </p></p>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sami-rajichi&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-rajichi&theme=gruvbox&hide_border=true" />
+  </p>
+<br>
+
+[![Sami RAJICHI' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sami-rajichi&custom_title=Sami_RAJICHI%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.linkedin.com/in/sami-rajichi-b579a5198)
