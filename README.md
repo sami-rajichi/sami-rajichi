@@ -45,7 +45,7 @@
 <a href="https://tensorflow.org" title="Tensorflow"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"></a>
 </p></p>
 
-## My Statistics
+## <picture> <img src = "https://github.com/sami-rajichi/sami-rajichi/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Statistics
 
 <br/>
 <p align="left">
