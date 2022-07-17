@@ -10,7 +10,7 @@
 - :school: I am a newly-graduate computer science student from the [Higher Institute of Computer Science of Mahdia - ISIMa](https://isima.rnu.tn)
 - :student: Despite my handicap, I managed to ride in the waves of success and graduate first in my division (Software Engineering and Information System)
 - 🌱 I’m developing my Flutter and web development skills. 
-- 💻 I'm interested in the Artificial Intelligence field.
+- 💻 I'm interested in Data Science field.
 - :thinking: I’m open to any `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hY-YgqPPK0GgePRuVLgoYAZcCrX8R7dK/view?usp=sharing).
 - :technologist: Being out of sight, means being out of mind.
 
