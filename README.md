@@ -36,14 +36,12 @@
 <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
-</p>
-<p>
 <a href="firebase.google.com" title="Firebase"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
 <a href="canva.com" title="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
 <a href="https://developer.android.com/android-studio/" title="Android Studip"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
 <a href="https://jupyter.org" title="Jupyter Notebook"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white" alt="Jupyter Notebook"></a>
 <a href="https://tensorflow.org" title="Tensorflow"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"></a>
-</p></p>
+</p>
 
 ## <picture> <img src = "https://github.com/sami-rajichi/sami-rajichi/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Statistics
 
