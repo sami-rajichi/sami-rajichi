@@ -11,7 +11,7 @@
 - :student: Despite my handicap, I managed to ride in the waves of success and graduate first in my division (Software Engineering and Information System)
 - 🌱 I’m developing my Flutter and web development skills. 
 - 💻 I'm interested in Data Science field.
-- :thinking: I’m open to any `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hY-YgqPPK0GgePRuVLgoYAZcCrX8R7dK/view?usp=sharing).
+- :thinking: I’m open to any `Intern` or a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1EAhpB-zdbYakU9cv9D-PC48l_hqtuHA-/view?usp=sharing) / [MON CV](https://drive.google.com/file/d/1j8NTN6nz_tqvFP99kWWiPf9HXhRHYYZa/view?usp=sharing).
 - :technologist: Being out of sight, means being out of mind.
 
 <br>
