@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sami RAJICHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=lato&size=25&duration=5000&color=F7BB3F&center=true&lines=Computer+Science+Graduate;ML/DL Enthusiast;Data+Science+Student;Dynamic+and+detail-oriented"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=lato&size=25&duration=5000&color=F7BB3F&center=true&lines=Computer+Science+Graduate;ML/DL+Enthusiast;Data+Science+Student;Dynamic+and+detail-oriented"></a>
 </p>
 
 ## <picture> <img src = "https://github.com/sami-rajichi/sami-rajichi/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
